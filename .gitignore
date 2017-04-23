@@ -1,0 +1,5 @@
+/bin/*
+/model/*
+/result/*
+*.pyc
+*.json
